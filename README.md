@@ -6,5 +6,5 @@
 
 ### Hi there，I'm Rumar Pamparo 🙋‍♂️
 
-- Open source is something I'm interested in.
-- Artificial intelligence is an area I'm focusing on right now.
+- I fall in love in Javascript Frameworks.
+- A Web Developer and Mobile dev.
