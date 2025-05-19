@@ -2,8 +2,6 @@
   <img alig src="https://github.com/CODEX-17/CODEX-17/blob/main/Rumar%20C.%20Pamparo%20(3).gif" />
 </p>
 
-
-
 ### Hi there，I'm Rumar Pamparo 🙋‍♂️
 
 - I fall in love in Javascript Frameworks.
